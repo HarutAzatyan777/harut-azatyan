@@ -8,7 +8,7 @@ const About = () => {
       <div className="grid xl:grid-cols-3 xl:grid-rows-6 md:grid-cols-2 grid-cols-1 gap-5 h-full">
         <div className="col-span-1 xl:row-span-3">
           <div className="grid-container bg-black border border-blue-500 rounded-xl p-6">
-            <img src="assets/grid1.gif" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
+            <img src="assets/grid1.png" alt="grid-1" className="w-full sm:h-[276px] h-fit object-contain" />
             <div>
               <p className="grid-headtext text-blue-300">Hi, I’m Harut Azatyan</p>
               <p className="grid-subtext text-gray-400">
